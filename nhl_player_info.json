@@ -1,0 +1,2112 @@
+[
+    {
+      "id": "8477492",
+      "team_name": "Colorado Avalanche",
+      "team_abbr": "COL",
+      "player_name": "Nathan MacKinnon",
+      "position": "C",
+      "rating": 100,
+      "unique_trait": "Elite skater; one of the highest-rated players in the league.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477934",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Leon Draisaitl",
+      "position": "C",
+      "rating": 97,
+      "unique_trait": "Elite skater; one of the highest-rated players in the league.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480069",
+      "team_name": "Colorado Avalanche",
+      "team_abbr": "COL",
+      "player_name": "Cale Makar",
+      "position": "D",
+      "rating": 96,
+      "unique_trait": "Elite skater; one of the highest-rated players in the league.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479407",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Jesper Bratt",
+      "position": "L",
+      "rating": 95,
+      "unique_trait": "Elite skater; one of the highest-rated players in the league.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477493",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Aleksander Barkov",
+      "position": "C",
+      "rating": 95,
+      "unique_trait": "Elite skater; one of the highest-rated players in the league.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476453",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Nikita Kucherov",
+      "position": "R",
+      "rating": 95,
+      "unique_trait": "Elite skater; one of the highest-rated players in the league.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477494",
+      "team_name": "Colorado Avalanche",
+      "team_abbr": "COL",
+      "player_name": "Jonathan Drouin",
+      "position": "L",
+      "rating": 94,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479542",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Brandon Hagel",
+      "position": "L",
+      "rating": 94,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480039",
+      "team_name": "Colorado Avalanche",
+      "team_abbr": "COL",
+      "player_name": "Martin Necas",
+      "position": "C",
+      "rating": 94,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478398",
+      "team_name": "Winnipeg Jets",
+      "team_abbr": "WPG",
+      "player_name": "Kyle Connor",
+      "position": "L",
+      "rating": 93,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478402",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Connor McDavid",
+      "position": "C",
+      "rating": 92,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482093",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Seth Jarvis",
+      "position": "C",
+      "rating": 92,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477933",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Sam Reinhart",
+      "position": "C",
+      "rating": 92,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480800",
+      "team_name": "Vancouver Canucks",
+      "team_abbr": "VAN",
+      "player_name": "Quinn Hughes",
+      "position": "D",
+      "rating": 91,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478427",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Sebastian Aho",
+      "position": "C",
+      "rating": 91,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480018",
+      "team_name": "Montreal Canadiens",
+      "team_abbr": "MTL",
+      "player_name": "Nick Suzuki",
+      "position": "C",
+      "rating": 91,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482078",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Lucas Raymond",
+      "position": "L",
+      "rating": 90,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479318",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "Auston Matthews",
+      "position": "C",
+      "rating": 90,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480023",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Robert Thomas",
+      "position": "C",
+      "rating": 90,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480002",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Nico Hischier",
+      "position": "C",
+      "rating": 89,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478420",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Mikko Rantanen",
+      "position": "R",
+      "rating": 89,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482116",
+      "team_name": "Ottawa Senators",
+      "team_abbr": "OTT",
+      "player_name": "Tim Sttzle",
+      "position": "C",
+      "rating": 89,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478550",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Artemi Panarin",
+      "position": "L",
+      "rating": 89,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478483",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "Mitch Marner",
+      "position": "R",
+      "rating": 89,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477956",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "David Pastrnak",
+      "position": "R",
+      "rating": 89,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478403",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Jack Eichel",
+      "position": "C",
+      "rating": 89,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8481559",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Jack Hughes",
+      "position": "C",
+      "rating": 89,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475913",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Mark Stone",
+      "position": "R",
+      "rating": 89,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476887",
+      "team_name": "Nashville Predators",
+      "team_abbr": "NSH",
+      "player_name": "Filip Forsberg",
+      "position": "L",
+      "rating": 88,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480803",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Evan Bouchard",
+      "position": "D",
+      "rating": 88,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475166",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "John Tavares",
+      "position": "C",
+      "rating": 88,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477497",
+      "team_name": "Columbus Blue Jackets",
+      "team_abbr": "CBJ",
+      "player_name": "Sean Monahan",
+      "position": "C",
+      "rating": 88,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475794",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Tyler Seguin",
+      "position": "C",
+      "rating": 88,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477404",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Jake Guentzel",
+      "position": "C",
+      "rating": 87,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477960",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Adrian Kempe",
+      "position": "R",
+      "rating": 87,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479314",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Matthew Tkachuk",
+      "position": "L",
+      "rating": 87,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477447",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Shea Theodore",
+      "position": "D",
+      "rating": 87,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482077",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Dylan Holloway",
+      "position": "L",
+      "rating": 86,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480893",
+      "team_name": "Columbus Blue Jackets",
+      "team_abbr": "CBJ",
+      "player_name": "Kirill Marchenko",
+      "position": "R",
+      "rating": 86,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482740",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Wyatt Johnston",
+      "position": "C",
+      "rating": 86,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480839",
+      "team_name": "Buffalo Sabres",
+      "team_abbr": "BUF",
+      "player_name": "Rasmus Dahlin",
+      "position": "D",
+      "rating": 86,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479420",
+      "team_name": "Buffalo Sabres",
+      "team_abbr": "BUF",
+      "player_name": "Tage Thompson",
+      "position": "C",
+      "rating": 85,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475167",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Victor Hedman",
+      "position": "D",
+      "rating": 85,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476881",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Tomas Hertl",
+      "position": "C",
+      "rating": 85,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8471675",
+      "team_name": "Pittsburgh Penguins",
+      "team_abbr": "PIT",
+      "player_name": "Sidney Crosby",
+      "position": "C",
+      "rating": 85,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477946",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Dylan Larkin",
+      "position": "C",
+      "rating": 85,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477939",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "William Nylander",
+      "position": "R",
+      "rating": 84,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478864",
+      "team_name": "Minnesota Wild",
+      "team_abbr": "MIN",
+      "player_name": "Kirill Kaprizov",
+      "position": "L",
+      "rating": 84,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479323",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Adam Fox",
+      "position": "D",
+      "rating": 84,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475168",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Matt Duchene",
+      "position": "C",
+      "rating": 84,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477955",
+      "team_name": "Seattle Kraken",
+      "team_abbr": "SEA",
+      "player_name": "Jared McCann",
+      "position": "L",
+      "rating": 84,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476460",
+      "team_name": "Winnipeg Jets",
+      "team_abbr": "WPG",
+      "player_name": "Mark Scheifele",
+      "position": "C",
+      "rating": 83,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8481656",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Aliaksei Protas",
+      "position": "C",
+      "rating": 83,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479385",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Jordan Kyrou",
+      "position": "R",
+      "rating": 83,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475172",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Nazem Kadri",
+      "position": "C",
+      "rating": 83,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477940",
+      "team_name": "Winnipeg Jets",
+      "team_abbr": "WPG",
+      "player_name": "Nikolaj Ehlers",
+      "position": "L",
+      "rating": 83,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477949",
+      "team_name": "Buffalo Sabres",
+      "team_abbr": "BUF",
+      "player_name": "Alex Tuch",
+      "position": "R",
+      "rating": 83,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8471685",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Anze Kopitar",
+      "position": "C",
+      "rating": 83,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476880",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Tom Wilson",
+      "position": "R",
+      "rating": 83,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478460",
+      "team_name": "Columbus Blue Jackets",
+      "team_abbr": "CBJ",
+      "player_name": "Zach Werenski",
+      "position": "D",
+      "rating": 83,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8481557",
+      "team_name": "Minnesota Wild",
+      "team_abbr": "MIN",
+      "player_name": "Matt Boldy",
+      "position": "L",
+      "rating": 83,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476389",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Vincent Trocheck",
+      "position": "C",
+      "rating": 82,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482660",
+      "team_name": "Columbus Blue Jackets",
+      "team_abbr": "CBJ",
+      "player_name": "Kent Johnson",
+      "position": "C",
+      "rating": 82,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478439",
+      "team_name": "Philadelphia Flyers",
+      "team_abbr": "PHI",
+      "player_name": "Travis Konecny",
+      "position": "R",
+      "rating": 82,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476483",
+      "team_name": "Pittsburgh Penguins",
+      "team_abbr": "PIT",
+      "player_name": "Rickard Rakell",
+      "position": "R",
+      "rating": 82,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478010",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Brayden Point",
+      "position": "C",
+      "rating": 82,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479400",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Pierre-Luc Dubois",
+      "position": "L",
+      "rating": 81,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476906",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Shayne Gostisbehere",
+      "position": "D",
+      "rating": 81,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478449",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Roope Hintz",
+      "position": "C",
+      "rating": 81,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8483808",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Andrei Kuzmenko",
+      "position": "L",
+      "rating": 81,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8471214",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Alex Ovechkin",
+      "position": "L",
+      "rating": 81,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478975",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Mason Marchment",
+      "position": "L",
+      "rating": 81,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480208",
+      "team_name": "Ottawa Senators",
+      "team_abbr": "OTT",
+      "player_name": "Drake Batherson",
+      "position": "R",
+      "rating": 81,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482758",
+      "team_name": "Pittsburgh Penguins",
+      "team_abbr": "PIT",
+      "player_name": "Ville Koivunen",
+      "position": "R",
+      "rating": 81,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480830",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Andrei Svechnikov",
+      "position": "R",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476468",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "J.T. Miller",
+      "position": "C",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8484801",
+      "team_name": "San Jose Sharks",
+      "team_abbr": "SJS",
+      "player_name": "Macklin Celebrini",
+      "position": "C",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476459",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Mika Zibanejad",
+      "position": "C",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480801",
+      "team_name": "Ottawa Senators",
+      "team_abbr": "OTT",
+      "player_name": "Brady Tkachuk",
+      "position": "L",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477942",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Kevin Fiala",
+      "position": "L",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478440",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Dylan Strome",
+      "position": "C",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8473419",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Brad Marchand",
+      "position": "L",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475158",
+      "team_name": "Nashville Predators",
+      "team_abbr": "NSH",
+      "player_name": "Ryan O'Reilly",
+      "position": "C",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8483457",
+      "team_name": "Montreal Canadiens",
+      "team_abbr": "MTL",
+      "player_name": "Lane Hutson",
+      "position": "D",
+      "rating": 80,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479337",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Alex DeBrincat",
+      "position": "R",
+      "rating": 79,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482113",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Anton Lundell",
+      "position": "C",
+      "rating": 79,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482124",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Quinton Byfield",
+      "position": "R",
+      "rating": 79,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480027",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Jason Robertson",
+      "position": "L",
+      "rating": 78,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8474600",
+      "team_name": "Nashville Predators",
+      "team_abbr": "NSH",
+      "player_name": "Roman Josi",
+      "position": "D",
+      "rating": 78,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8481540",
+      "team_name": "Montreal Canadiens",
+      "team_abbr": "MTL",
+      "player_name": "Cole Caufield",
+      "position": "R",
+      "rating": 78,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8474590",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "John Carlson",
+      "position": "D",
+      "rating": 78,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475754",
+      "team_name": "Colorado Avalanche",
+      "team_abbr": "COL",
+      "player_name": "Brock Nelson",
+      "position": "C",
+      "rating": 78,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8481604",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Pavel Dorofeyev",
+      "position": "L",
+      "rating": 78,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477464",
+      "team_name": "Pittsburgh Penguins",
+      "team_abbr": "PIT",
+      "player_name": "Bryan Rust",
+      "position": "R",
+      "rating": 78,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478474",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "Noah Gregor",
+      "position": "C",
+      "rating": 78,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476878",
+      "team_name": "New York Islanders",
+      "team_abbr": "NYI",
+      "player_name": "Bo Horvat",
+      "position": "C",
+      "rating": 78,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478466",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Miro Heiskanen",
+      "position": "D",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478442",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Mikael Granlund",
+      "position": "L",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479405",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Viktor Arvidsson",
+      "position": "R",
+      "rating": 77,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478839",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Charlie Coyle",
+      "position": "C",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478462",
+      "team_name": "New York Islanders",
+      "team_abbr": "NYI",
+      "player_name": "Noah Dobson",
+      "position": "D",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477484",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Vladimir Tarasenko",
+      "position": "R",
+      "rating": 77,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478854",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Tyler Toffoli",
+      "position": "R",
+      "rating": 77,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478834",
+      "team_name": "Seattle Kraken",
+      "team_abbr": "SEA",
+      "player_name": "Jordan Eberle",
+      "position": "R",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476853",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Jonathan Huberdeau",
+      "position": "L",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480112",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Yegor Sharangovich",
+      "position": "C",
+      "rating": 77,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476484",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Anthony Cirelli",
+      "position": "C",
+      "rating": 77,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476901",
+      "team_name": "Arizona Coyotes",
+      "team_abbr": "ARI",
+      "player_name": "Nick Schmaltz",
+      "position": "C",
+      "rating": 77,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477945",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Pavel Buchnevich",
+      "position": "L",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476465",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Charlie McAvoy",
+      "position": "D",
+      "rating": 77,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475883",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Steven Stamkos",
+      "position": "C",
+      "rating": 77,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476905",
+      "team_name": "Vancouver Canucks",
+      "team_abbr": "VAN",
+      "player_name": "Elias Pettersson",
+      "position": "C",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480145",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Andrew Mangiapane",
+      "position": "L",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479541",
+      "team_name": "Buffalo Sabres",
+      "team_abbr": "BUF",
+      "player_name": "Jeff Skinner",
+      "position": "L",
+      "rating": 76,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478429",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Esa Lindell",
+      "position": "D",
+      "rating": 76,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477433",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "David Krejci",
+      "position": "C",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477435",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Carter Verhaeghe",
+      "position": "L",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478433",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Alex Pietrangelo",
+      "position": "D",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477937",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Robby Fabbri",
+      "position": "C",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478055",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Ryan Strome",
+      "position": "C",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476884",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "Tyler Bertuzzi",
+      "position": "L",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478479",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Patrice Bergeron",
+      "position": "C",
+      "rating": 76,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480034",
+      "team_name": "Nashville Predators",
+      "team_abbr": "NSH",
+      "player_name": "Ryan McDonagh",
+      "position": "D",
+      "rating": 76,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482080",
+      "team_name": "Vancouver Canucks",
+      "team_abbr": "VAN",
+      "player_name": "Elias Lindholm",
+      "position": "C",
+      "rating": 75,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477943",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Jakob Chychrun",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478443",
+      "team_name": "Philadelphia Flyers",
+      "team_abbr": "PHI",
+      "player_name": "Sean Couturier",
+      "position": "C",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476472",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Gustav Forsling",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480183",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Jonathan Aspirot",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476885",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Teuvo Teravainen",
+      "position": "R",
+      "rating": 75,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479527",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Ross Colton",
+      "position": "C",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476403",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Jacob Trouba",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476462",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Jake DeBrusk",
+      "position": "L",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477461",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Jamie Benn",
+      "position": "L",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480110",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Jonas Siegenthaler",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476477",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Drew Doughty",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475850",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Darnell Nurse",
+      "position": "D",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476882",
+      "team_name": "New York Islanders",
+      "team_abbr": "NYI",
+      "player_name": "Anders Lee",
+      "position": "L",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480180",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Jesper Fast",
+      "position": "R",
+      "rating": 75,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476402",
+      "team_name": "Arizona Coyotes",
+      "team_abbr": "ARI",
+      "player_name": "Clayton Keller",
+      "position": "R",
+      "rating": 75,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477488",
+      "team_name": "Arizona Coyotes",
+      "team_abbr": "ARI",
+      "player_name": "Nick Bjugstad",
+      "position": "C",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476888",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Kevin Shattenkirk",
+      "position": "D",
+      "rating": 74,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476487",
+      "team_name": "Philadelphia Flyers",
+      "team_abbr": "PHI",
+      "player_name": "Ryan Johansen",
+      "position": "C",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478426",
+      "team_name": "San Jose Sharks",
+      "team_abbr": "SJS",
+      "player_name": "Kaapo Kakko",
+      "position": "R",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479361",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Brayden Schenn",
+      "position": "C",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477969",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Kailer Yamamoto",
+      "position": "R",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478473",
+      "team_name": "Minnesota Wild",
+      "team_abbr": "MIN",
+      "player_name": "Mats Zuccarello",
+      "position": "R",
+      "rating": 74,
+      "unique_trait": "A high-end offensive talent known for their scoring rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477961",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Michael Eyssimont",
+      "position": "C",
+      "rating": 74,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478448",
+      "team_name": "San Jose Sharks",
+      "team_abbr": "SJS",
+      "player_name": "Logan Couture",
+      "position": "C",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476400",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Zach Hyman",
+      "position": "L",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480036",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Chandler Stephenson",
+      "position": "C",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477953",
+      "team_name": "Minnesota Wild",
+      "team_abbr": "MIN",
+      "player_name": "Jared Spurgeon",
+      "position": "D",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476463",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Chris Kreider",
+      "position": "L",
+      "rating": 74,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478445",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Mattias Janmark",
+      "position": "L",
+      "rating": 74,
+      "unique_trait": "A strong two-way player with excellent on-ice goal differential.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476405",
+      "team_name": "San Jose Sharks",
+      "team_abbr": "SJS",
+      "player_name": "Ondrej Palat",
+      "position": "L",
+      "rating": 73,
+      "unique_trait": "Reliable player with solid performance across multiple metrics.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480111",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Igor Shesterkin",
+      "position": "G",
+      "rating": 89,
+      "unique_trait": "Top-tier goalie with an elite Goals Saved Above Expected (GSAx) rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476945",
+      "team_name": "Winnipeg Jets",
+      "team_abbr": "WPG",
+      "player_name": "Connor Hellebuyck",
+      "position": "G",
+      "rating": 100,
+      "unique_trait": "Top-tier goalie with an elite Goals Saved Above Expected (GSAx) rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476932",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "Anthony Stolarz",
+      "position": "G",
+      "rating": 91,
+      "unique_trait": "Top-tier goalie with an elite Goals Saved Above Expected (GSAx) rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480313",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Logan Thompson",
+      "position": "G",
+      "rating": 89,
+      "unique_trait": "Top-tier goalie with an elite Goals Saved Above Expected (GSAx) rate.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476883",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Andrei Vasilevskiy",
+      "position": "G",
+      "rating": 88,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478470",
+      "team_name": "Montreal Canadiens",
+      "team_abbr": "MTL",
+      "player_name": "Sam Montembeault",
+      "position": "G",
+      "rating": 84,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475311",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Darcy Kuemper",
+      "position": "G",
+      "rating": 83,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8474596",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Jake Allen",
+      "position": "G",
+      "rating": 82,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475850",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Stuart Skinner",
+      "position": "G",
+      "rating": 73,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476914",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Joonas Korpisalo",
+      "position": "G",
+      "rating": 73,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480981",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Joel Hofer",
+      "position": "G",
+      "rating": 69,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477465",
+      "team_name": "Pittsburgh Penguins",
+      "team_abbr": "PIT",
+      "player_name": "Tristan Jarry",
+      "position": "G",
+      "rating": 69,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480193",
+      "team_name": "Columbus Blue Jackets",
+      "team_abbr": "CBJ",
+      "player_name": "Daniil Tarasov",
+      "position": "G",
+      "rating": 68,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482446",
+      "team_name": "Pittsburgh Penguins",
+      "team_abbr": "PIT",
+      "player_name": "Joel Blomqvist",
+      "position": "G",
+      "rating": 67,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8471734",
+      "team_name": "New York Rangers",
+      "team_abbr": "NYR",
+      "player_name": "Jonathan Quick",
+      "position": "G",
+      "rating": 67,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478024",
+      "team_name": "Anaheim Ducks",
+      "team_abbr": "ANA",
+      "player_name": "Ville Husso",
+      "position": "G",
+      "rating": 67,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477424",
+      "team_name": "Nashville Predators",
+      "team_abbr": "NSH",
+      "player_name": "Juuse Saros",
+      "position": "G",
+      "rating": 67,
+      "unique_trait": "Outstanding Save Percentage; known for consistent performance.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480214",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Nico Daws",
+      "position": "G",
+      "rating": 66,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479505",
+      "team_name": "Detroit Red Wings",
+      "team_abbr": "DET",
+      "player_name": "Alex Nedeljkovic",
+      "position": "G",
+      "rating": 66,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479577",
+      "team_name": "Chicago Blackhawks",
+      "team_abbr": "CHI",
+      "player_name": "Arvid Soderblom",
+      "position": "G",
+      "rating": 65,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478025",
+      "team_name": "Ottawa Senators",
+      "team_abbr": "OTT",
+      "player_name": "Anton Forsberg",
+      "position": "G",
+      "rating": 65,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479415",
+      "team_name": "Anaheim Ducks",
+      "team_abbr": "ANA",
+      "player_name": "Lukas Dostal",
+      "position": "G",
+      "rating": 64,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480749",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Jacob Markstrom",
+      "position": "G",
+      "rating": 63,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476449",
+      "team_name": "Colorado Avalanche",
+      "team_abbr": "COL",
+      "player_name": "Alexandar Georgiev",
+      "position": "G",
+      "rating": 63,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479367",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Pyotr Kochetkov",
+      "position": "G",
+      "rating": 63,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479374",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Sergei Bobrovsky",
+      "position": "G",
+      "rating": 62,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477439",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Adin Hill",
+      "position": "G",
+      "rating": 62,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476904",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Jeremy Swayman",
+      "position": "G",
+      "rating": 61,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476971",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Jake Oettinger",
+      "position": "G",
+      "rating": 61,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477480",
+      "team_name": "Arizona Coyotes",
+      "team_abbr": "ARI",
+      "player_name": "Karel Vejmelka",
+      "position": "G",
+      "rating": 61,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478496",
+      "team_name": "Vancouver Canucks",
+      "team_abbr": "VAN",
+      "player_name": "Thatcher Demko",
+      "position": "G",
+      "rating": 60,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476886",
+      "team_name": "Philadelphia Flyers",
+      "team_abbr": "PHI",
+      "player_name": "Carter Hart",
+      "position": "G",
+      "rating": 60,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8482163",
+      "team_name": "Seattle Kraken",
+      "team_abbr": "SEA",
+      "player_name": "Joey Daccord",
+      "position": "G",
+      "rating": 59,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478498",
+      "team_name": "San Jose Sharks",
+      "team_abbr": "SJS",
+      "player_name": "Mackenzie Blackwood",
+      "position": "G",
+      "rating": 59,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476908",
+      "team_name": "New York Islanders",
+      "team_abbr": "NYI",
+      "player_name": "Semyon Varlamov",
+      "position": "G",
+      "rating": 58,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476911",
+      "team_name": "Buffalo Sabres",
+      "team_abbr": "BUF",
+      "player_name": "Ukko-Pekka Luukkonen",
+      "position": "G",
+      "rating": 58,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478546",
+      "team_name": "Boston Bruins",
+      "team_abbr": "BOS",
+      "player_name": "Linus Ullmark",
+      "position": "G",
+      "rating": 57,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478832",
+      "team_name": "Washington Capitals",
+      "team_abbr": "WSH",
+      "player_name": "Darcy Kuemper",
+      "position": "G",
+      "rating": 57,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8480119",
+      "team_name": "New York Islanders",
+      "team_abbr": "NYI",
+      "player_name": "Ilya Sorokin",
+      "position": "G",
+      "rating": 57,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477431",
+      "team_name": "San Jose Sharks",
+      "team_abbr": "SJS",
+      "player_name": "Devan Dubnyk",
+      "position": "G",
+      "rating": 56,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476900",
+      "team_name": "New York Islanders",
+      "team_abbr": "NYI",
+      "player_name": "Christopher Gibson",
+      "position": "G",
+      "rating": 56,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479363",
+      "team_name": "Toronto Maple Leafs",
+      "team_abbr": "TOR",
+      "player_name": "Joseph Woll",
+      "position": "G",
+      "rating": 56,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477428",
+      "team_name": "Vancouver Canucks",
+      "team_abbr": "VAN",
+      "player_name": "Casey DeSmith",
+      "position": "G",
+      "rating": 55,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8475850",
+      "team_name": "Edmonton Oilers",
+      "team_abbr": "EDM",
+      "player_name": "Mikko Koskinen",
+      "position": "G",
+      "rating": 55,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476889",
+      "team_name": "Florida Panthers",
+      "team_abbr": "FLA",
+      "player_name": "Spencer Martin",
+      "position": "G",
+      "rating": 54,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478490",
+      "team_name": "Buffalo Sabres",
+      "team_abbr": "BUF",
+      "player_name": "Eric Comrie",
+      "position": "G",
+      "rating": 54,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479316",
+      "team_name": "New Jersey Devils",
+      "team_abbr": "NJD",
+      "player_name": "Akira Schmid",
+      "position": "G",
+      "rating": 54,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476903",
+      "team_name": "Tampa Bay Lightning",
+      "team_abbr": "TBL",
+      "player_name": "Jonas Johansson",
+      "position": "G",
+      "rating": 53,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8479574",
+      "team_name": "Dallas Stars",
+      "team_abbr": "DAL",
+      "player_name": "Scott Wedgewood",
+      "position": "G",
+      "rating": 53,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476912",
+      "team_name": "Los Angeles Kings",
+      "team_abbr": "LAK",
+      "player_name": "Cam Talbot",
+      "position": "G",
+      "rating": 52,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476881",
+      "team_name": "Vegas Golden Knights",
+      "team_abbr": "VGK",
+      "player_name": "Robin Lehner",
+      "position": "G",
+      "rating": 52,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476481",
+      "team_name": "Carolina Hurricanes",
+      "team_abbr": "CAR",
+      "player_name": "Frederik Andersen",
+      "position": "G",
+      "rating": 52,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476907",
+      "team_name": "Arizona Coyotes",
+      "team_abbr": "ARI",
+      "player_name": "Darcy Kuemper",
+      "position": "G",
+      "rating": 52,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477413",
+      "team_name": "Columbus Blue Jackets",
+      "team_abbr": "CBJ",
+      "player_name": "Elvis Merzlikins",
+      "position": "G",
+      "rating": 51,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8478835",
+      "team_name": "Winnipeg Jets",
+      "team_abbr": "WPG",
+      "player_name": "Laurent Brossoit",
+      "position": "G",
+      "rating": 51,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8477483",
+      "team_name": "St. Louis Blues",
+      "team_abbr": "STL",
+      "player_name": "Jordan Binnington",
+      "position": "G",
+      "rating": 51,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    },
+    {
+      "id": "8476939",
+      "team_name": "Calgary Flames",
+      "team_abbr": "CGY",
+      "player_name": "Dustin Wolf",
+      "position": "G",
+      "rating": 50,
+      "unique_trait": "A reliable presence in net for their team.",
+      "is_unique_fact": true
+    }
+  ]
